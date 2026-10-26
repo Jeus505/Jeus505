@@ -1,16 +1,39 @@
-## Hi there 👋
 
-<!--
-**Jeus505/Jeus505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 안녕하세요! Yang je woo 입니다 👋
 
-Here are some ideas to get you started:
+### 🎬 Media Contents | Storytelling | Visual Production
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+안녕하세요. 미디어콘텐츠를 전공하며 콘텐츠 기획과
+영상 제작, 스토리텔링에 관심을 가지고 다양한
+창작 활동을 이어가고 있습니다.
+
+영상과 이야기를 통해 생각과 감정을 전달하는
+콘텐츠 제작을 지향합니다.
+
+## 🛠 Skills & Interests
+
+- 🎥 영상 기획 및 제작
+- ✍️ 시나리오 및 스토리텔링
+- 🎨 시각 콘텐츠 디자인
+- 🎬 영상 편집 및 연출
+
+## 📁 Projects
+
+### 🎞 프로젝트 소개 (작성 예정)
+
+- **프로젝트 개요:** 작품의 기획 의도와 주요 내용 작성 예정
+- **담당 역할:** 직접 수행한 작업 작성 예정
+- **제작 결과:** 최종 결과물 및 성과 작성 예정
+
+## 🔗 Portfolio
+
+- 포트폴리오 링크 추가 예정
+
+---
+
+감사합니다!
+  
