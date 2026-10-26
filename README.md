@@ -51,7 +51,7 @@
 - **프로젝트 유형:** 단편 영상
 - **주요 수행 업무:** 촬영감독, 영상 촬영, 촬영 장소 섭외,
   영상 편집, 사운드 후반작업
-- **최종 결과물:** [완성된 영상의 형식 및 결과 작성]
+- **완성 영상:** [🎬 단편 영상 〈잔향〉 감상하기](https://drive.google.com/file/d/1XkwNwLQt-kpaPW3JVRRS-LXjviKy_ms-/view)
 
 
 #### 🔗 작품 자료
@@ -60,11 +60,6 @@
 <img src="https://github.com/user-attachments/assets/a139dd21-1e66-41e3-9fa9-83df10af840d" alt="단편 영상 잔향 포스터" width="350">
   
 
-## 🔗 Portfolio
-
-- 포트폴리오 링크 추가 예정
-
----
 
 감사합니다!
   
